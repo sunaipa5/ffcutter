@@ -1,5 +1,5 @@
 Name:           ffcutter
-Version:        1.0
+Version:        1.0.0
 Release:        1%{?dist}
 Summary:        ffcutter system tray application
 License:        GPLv3
