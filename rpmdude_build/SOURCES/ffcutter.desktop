@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=FFcutter
+Exec=ffcutter
+Icon=ffcutter
+Type=Application
+Categories=Utility;
+Terminal=false
+StartupWMClass=org.sunaipa.ffcutter
