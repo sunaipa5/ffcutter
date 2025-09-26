@@ -16,8 +16,8 @@
 
 ## Symbols
 
-- U: Move the time `down` in the list
-- D: Move the time `up` in the list
+- U: Move the time `up` in the list
+- D: Move the time `down` in the list
 - -: `Delete` the time in the list
 
 ## Screenshots
